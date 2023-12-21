@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm David Ajanaku</h1>
 <h3 align="center">I am a passionate software developer with a love for clean code and problem-solving. Let's connect and build something amazing together</h3>
 
-<img src="https://img.freepik.com/premium-vector/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-with-codes-developer-work-with-task-geek-coding-software-with-laptop-pc-vector-illust_145666-1608.jpg" alt="Coding" width="400" />
+<img src="https://img.freepik.com/premium-vector/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-with-codes-developer-work-with-task-geek-coding-software-with-laptop-pc-vector-illust_145666-1608.jpg" alt="Coding" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-ajanaku&label=Profile%20views&color=0e75b6&style=flat" alt="david-ajanaku" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/cold_shots" target="blank"><img src="https://img.shields.io/twitter/follow/cold_shots?logo=twitter&style=for-the-badge" alt="cold_shots" /></a> </p>
 
-- 📫 How to reach me **codeytechy@gmail.com**
+- 📫 How to reach me **davidajanaku46163@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15stqxzcYXO0S4dpM42r-4qe25JuQbcObdy3LvoVQqik/edit#](https://docs.google.com/document/d/15stqxzcYXO0S4dpM42r-4qe25JuQbcObdy3LvoVQqik/edit#)
+- 📄 Know about my experiences https://david-ajanaku.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
