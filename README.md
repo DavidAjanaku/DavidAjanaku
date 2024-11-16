@@ -1,8 +1,8 @@
-🛠️ I specialize in **TypeScript**, **React.js**, and mobile app development with **Flutter**. I’m always exploring new technologies to enhance my skillset, currently diving into **Astro**.
+🛠️ I specialize in **TypeScript**, **React.js**, and mobile app development with **Flutter**. I’m always exploring new technologies to enhance my skillset, diving into **Vuejs**.
 
 🛠️ I’m passionate about building intuitive **digital products** that address real-world challenges, with a strong focus on **user experience** and **performance**.
 
-✍️ I enjoy writing about **software development**, sharing insights, and discussing **frontend** and **mobile technologies** to help others grow and succeed in their tech careers.
+✍️ I enjoy writing about software development, sharing insights, and discussing front-end and mobile technologies to help others grow and succeed in their tech careers.
 
 
 <p align="left">
