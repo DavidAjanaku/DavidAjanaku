@@ -92,3 +92,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
   </a>
 </p>
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-ajanaku&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ajanaku&layout=compact&theme=radical)
+
