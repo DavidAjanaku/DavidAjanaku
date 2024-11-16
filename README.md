@@ -93,6 +93,8 @@
   </a>
 </p>
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-ajanaku&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ajanaku&layout=compact&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAjanaku&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAjanaku&layout=compact&theme=radical)
+
 
