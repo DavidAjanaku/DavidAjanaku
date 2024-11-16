@@ -4,7 +4,6 @@
 
 ✍️ I enjoy writing about software development, sharing insights, and discussing front-end and mobile technologies to help others grow and succeed in their tech careers.
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=david-ajanaku&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -92,7 +91,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
   </a>
 </p>
-
-
-
-
