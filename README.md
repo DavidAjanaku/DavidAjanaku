@@ -93,13 +93,6 @@
   </a>
 </p>
 
-## GitHub Stats
-
-![DavidAjanaku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAjanaku&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAjanaku&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidAjanaku&theme=radical)
 
 
 
