@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm David Ajanaku</h1>
 <h3 align="center">A passionate software developer dedicated to writing clean code, solving complex problems, and delivering impactful applications. Let's collaborate and create something exceptional!</h3>
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-with-codes-developer-work-with-task-geek-coding-software-with-laptop-pc-vector-illust_145666-1608.jpg" alt="Coding Illustration" width="80%" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=david-ajanaku&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
