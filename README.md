@@ -15,7 +15,7 @@ I am a Senior Front End Engineer with over 5 years of experience specializing in
 ### 🚀 What I prioritize
 *   **Clean Architecture:** Component-driven design, state synchronization, and strict adherence to DRY principles.
 *   **Performance:** Page speed optimization, DOM rendering improvements, and scalable state management.
-*   **Modern Workflows:** Leveraging AI-assisted coding to accelerate feature delivery while maintaining impeccable code quality.
+*   **Maintainability** Workflows:** Writing rigorous, self-documenting code supported by strong TypeScript typing and thorough testing pipelines.
 
 ---
 
