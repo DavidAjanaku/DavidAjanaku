@@ -1,4 +1,3 @@
-```
 # 👋 Hi, I'm David Ajanaku
 
 ### Senior Front End Engineer | Lagos, Nigeria
@@ -23,8 +22,3 @@ I am a Senior Front End Engineer with over 5 years of experience specializing in
 ### 📫 Let's Connect
 *   **LinkedIn:** [David Ajanaku](https://www.linkedin.com/in/ajanaku-david-45375424b/)
 *   **Email:** davidajanaku46163@gmail.com
-```
-
----
-
-
